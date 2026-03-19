@@ -12,3 +12,7 @@
 ## Data Sourcing and Structure
 ### Data Source 
 * Provider - Maven Analytics
+* Project Type - Simulated Restaurant Business case
+### Time Period 
+* January 2033 - March 2023
+* Duration - 3 Months
