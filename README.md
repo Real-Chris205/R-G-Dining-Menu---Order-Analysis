@@ -73,5 +73,4 @@
 * strategies on improving pricing
 * revenue conentration risks if any and how to go about it
 * the customer purchasing behaviours
-* 
-*  
+    
