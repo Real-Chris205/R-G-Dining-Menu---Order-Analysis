@@ -49,3 +49,29 @@
 * Applying CTEs and Sub query
 * Applying Dax measures
 * Data Visualization
+## Business Problem
+#### The board wanted more visibility :
+* Revenue Drivers
+* Peak Operartional Periods
+* Product Performance
+* custmer pUrchasing behaviour
+* Price Effectiveness
+## Project Objective
+* Identifying revenue driving cuisines
+* Detect underperforming menu items
+* Measure revenue concentration risks
+* Optimize staffing and inventory
+* Track monthly revenue trend
+* Identifying peak order time
+* Evaluate Price vs demand relationship
+* Identify Customer purchasing pattern
+## Business Impact
+#### This analysis shows the board :
+* the high performing category to invest in
+* the underpeforming menu item to remove or redesign
+* the peak demand periods to proeprly optimize the staff
+* strategies on improving pricing
+* revenue conentration risks if any and how to go about it
+* the customer purchasing behaviours
+* 
+*  
