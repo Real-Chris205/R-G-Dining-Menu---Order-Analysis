@@ -92,4 +92,11 @@
 * Allocating more staff and kitchen resources on Mondays , Friday and Tuesday when order volume is highest.
 * Preparing additional inventory ahead of these peak days to prevent stock shortages.
 * Exploring promotional campaigns on slower days such as wednesday, saturday and Thursday to help balance demand across the week.
-    
+## Insight 3 : Peak Ordering Time 
+#### An analysis of order activity by time of day shows that demand is relatively drops low after first 3 hours of the early morning hours. Ordering activity begins to increase later in the mid day and reaches its peak between 12:00 PM and 1:00 PM, indicating that the restaurant experiences its highest order volume during the lunchtime period.
+#### After this period, order activity gradually declines throughout the afternoon and drops further during the evening hours, suggesting that customer demand is significantly lower outside the lunch window.
+## Recommendation 
+* From an operational perspective, the restaurant should ensure that sufficient staff and kitchen capacity are available between 12 PM and 1 PM, as this period represents the highest operational pressure.
+* Preparing ingredients and inventory ahead of this window may help reduce service delays.
+* Additionally, the restaurant could explore targeted promotions during slower morning or evening hours to help balance demand throughout the day.
+
