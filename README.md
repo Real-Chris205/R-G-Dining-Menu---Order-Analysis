@@ -73,4 +73,10 @@
 * strategies on improving pricing
 * revenue conentration risks if any and how to go about it
 * the customer purchasing behaviours
+## Insight 1 : Revenue Performance by Menu Category
+### Business Question
+#### which category genrates the highest revenue
+### Key Findings
+#### italian category generates the highest revenue in the menu with $49526 largely driven by the highest average spend per dish $16.8, followed closely by asian which achieved a total revnue of 46293. however asian had the highest order with 3470 orders.
+
     
