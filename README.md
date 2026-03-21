@@ -77,6 +77,11 @@
 ### Business Question
 #### which category genrates the highest revenue
 ### Key Findings
-#### italian category generates the highest revenue in the menu with $49526 largely driven by the highest average spend per dish $16.8, followed closely by asian which achieved a total revnue of 46293. however asian had the highest order with 3470 orders.
-
+####  Italian cuisine generated the highest revenue at about $49526, mainly driven by the highest average spend per dish ($16.8). This indicates that customers tend to spend more when ordering Italian items, followed closely by asian which achieved a total revnue of $46293. however asian had the highest order with 3470 orders suggesting strong demand but slightly lower average spending per dish
+#### Overall, the results suggest that Italian cuisine is the most valuable category in terms of revenue, while Asian cuisine drives the highest customer demand.
+### Recommendation
+* Given these findings, the restaurant may consider investing more in Italian cuisine, as it delivers the highest revenue and
+ the highest spending per order. Expanding Italian menu offerings or promoting these dishes could further increase revenue.
+*  Asian cuisine demonstrates strong demand, suggesting an opportunity to increase revenue by slightly adjusting pricing,
+ introducing premium variations, or promoting higher-value Asian dishes.
     
