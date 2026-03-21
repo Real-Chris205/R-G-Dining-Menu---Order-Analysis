@@ -84,4 +84,12 @@
  the highest spending per order. Expanding Italian menu offerings or promoting these dishes could further increase revenue.
 *  Asian cuisine demonstrates strong demand, suggesting an opportunity to increase revenue by slightly adjusting pricing,
  introducing premium variations, or promoting higher-value Asian dishes.
+## Insight 2 : Order volume by day
+#### Monday had the highest number of transaction 2010, closely followed by Friday, Tuesday and sunday with 1822, 1788 and 1776 respectively, however thursday, saturday and wednesday had the lowest count of orders with 1689,1618 and 1531 respectively .
+## Recommendation
+### Business Recommendation
+#### From an operational standpoint, the restaurant should consider:
+* Allocating more staff and kitchen resources on Mondays , Friday and Tuesday when order volume is highest.
+* Preparing additional inventory ahead of these peak days to prevent stock shortages.
+* Exploring promotional campaigns on slower days such as wednesday, saturday and Thursday to help balance demand across the week.
     
