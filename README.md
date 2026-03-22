@@ -7,7 +7,7 @@
 
 #### R/G Dining, a restaurant located in the heart of New York City, was analyzed over the first three months of the year to evaluate key performance drivers, including revenue generation, customer demand patterns, peak operational periods, and staffing needs.
 
-#### During this period, The restaurant completed 12,234 orders during the fiscal year, offering 32 menu items across 4 categories.These orders generated a total revenue of approximately $158,779.Among the categories, Italian cuisine generated the highest revenue at about $49526, mainly driven by the highest average spend per dish ($16.8).
+#### During this period, The restaurant completed 5370 orders during the fiscal year, offering 32 menu items across 4 categories.These orders generated a total revenue of approximately $158,779.Among the categories, Italian cuisine generated the highest revenue at about $49526, mainly driven by the highest average spend per dish ($16.8).
 
 #### This indicates that customers tend to spend more when ordering Italian items. Asian and Mexican cuisines followed closely, generating around $46293 and $34781 in total revenue,respectively. Although Italian generated the most revenue, Asian cuisine recorded the highest number of item ordered (3,470), suggesting strong demand but slightly lower average spending per dish.
 
@@ -67,6 +67,16 @@
 * Identify Customer purchasing pattern
 ## Key Performance Index
 ### Total Number Menu Item - 32
+### Total Number of orders - 5370
+### Number of Dishes per Category 
+* American - 6
+* Asian - 8
+* Mexican - 9
+* Italian - 9
+### Average Order Value - $30
+### Most Expensive Item - Shrimp Scampi
+### Least Expensive Item - Edamame
+### Total Revenue Generated - $158,779
 
   
 ## Business Impact
@@ -89,11 +99,11 @@
 *  Asian cuisine demonstrates strong demand, suggesting an opportunity to increase revenue by slightly adjusting pricing,
  introducing premium variations, or promoting higher-value Asian dishes.
 ## Insight 2 : Order volume by day
-#### Monday had the highest number of transaction 2010, closely followed by Friday, Tuesday and sunday with 1822, 1788 and 1776 respectively, however thursday, saturday and wednesday had the lowest count of orders with 1689,1618 and 1531 respectively .
+#### Monday had the highest number of transaction 885, closely followed by Sunday, Friday and Tuesday with 796, 787 and 766 respectively, however thursday, saturday and wednesday had the lowest count of orders with 743 ,711 and 682 respectively .
 ## Recommendation
 ### Business Recommendation
 #### From an operational standpoint, the restaurant should consider:
-* Allocating more staff and kitchen resources on Mondays , Friday and Tuesday when order volume is highest.
+* Allocating more staff and kitchen resources on Mondays , Sunday and Friday when order volume is highest.
 * Preparing additional inventory ahead of these peak days to prevent stock shortages.
 * Exploring promotional campaigns on slower days such as wednesday, saturday and Thursday to help balance demand across the week.
 ## Insight 3 : Peak Ordering Time 
