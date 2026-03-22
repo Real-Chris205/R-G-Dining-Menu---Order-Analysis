@@ -174,3 +174,6 @@
 #### Operationally, the restaurant experiences peak demand during lunch hours (12 PM – 1 PM) and on specific high-traffic days, highlighting clear opportunities for staff optimization and inventory planning. At the product level, a mix of high-performing and underperforming items was identified, providing actionable insights for menu optimization and performance improvement.
 #### Additionally, the analysis shows that price alone does not determine demand, as customer purchasing behavior is influenced by perceived value and item appeal. Combined with the finding that only 27.21% of revenue comes from the top 5 items, it is evident that the restaurant benefits from low revenue concentration risk and a well-distributed sales structure.
 #### Overall, the business is positioned with stable demand, diversified revenue streams, and clear growth opportunities. By focusing on high-value categories, optimizing underperforming items, and aligning operations with peak demand periods, R/G Dining can enhance both profitability and operational efficiency moving forward.
+
+## Key SQL Queries
+- <a href="https://github.com/Real-Chris205/R-G-Dining-Menu---Order-Analysis/blob/main/revenue%20concentration%20risk.sql">Revenue_concentration_risk.sql</a>
