@@ -121,5 +121,6 @@
 ### What item generates the most revenue and order ?
 #### Hamburger, edamame, and Korean beef bowl recorded the highest number of orders, with 622, 620, and 588 respectively. In contrast, cheese lasagna, potstickers, and chicken tacos had the lowest order volumes, with 207, 205, and 123 orders.
 
-#### In terms of revenue, the Korean beef bowl generated the highest income at 10,584, followed by spaghetti and meatballs with 8,460 and cheeseburger with 8,162. On the other hand, chicken tacos produced the lowest revenue at 1,476, closely followed by potstickers at 1,845 and chips at 2,133.
+#### In terms of revenue, the Korean beef bowl generated the highest income at $10,584, followed by spaghetti and meatballs with $8,460 and cheeseburger with $8,162. On the other hand, chicken tacos produced the lowest revenue at $1,476, closely followed by potstickers at $1,845 and chips at $2,133.
+
 
