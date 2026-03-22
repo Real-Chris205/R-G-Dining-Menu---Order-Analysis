@@ -150,3 +150,21 @@
 ### Business Question
 #### What percentage of total revenue comes from the top 5 items?
 #### The top 5 menu items generate 27.21% of the restaurant’s total revenue, which shows that sales are spread across many items on the menu rather than being driven by just a few popular ones. This means the business is not heavily dependent on a small number of products,reducing the risk of revenue loss if one item’s sales decline
+## Recommendations
+### 1️ Maintain a Diverse Menu Strategy
+* Since revenue is well distributed across many items, the restaurant should maintain a broad and balanced menu rather than focusing too heavily on a few products. This helps preserve revenue stability and reduces dependency risk.
+
+### 2️ Avoid Over-Reliance on “Star” Items
+* The business should not overly depend on top-selling items, but instead continue to support a wide range of products. This ensures that a decline in one item’s performance does not significantly impact total revenue.
+
+### 3️ Identify and Gradually Scale Strong Performers
+* Although revenue is distributed, the top-performing items can still be strategically promoted or slightly expanded (e.g., variations, combos) to increase their contribution without creating over-dependence.
+
+### 4️ Optimize Underperforming Items
+#### Items with consistently low contribution should be:
+* improved (recipe, presentation)
+* repositioned (marketing, pricing) or removed if necessary
+* This helps improve overall menu efficiency.
+
+### 5️ Leverage Menu Diversity for Marketing
+#### The restaurant can promote itself as offering variety and choice, which appeals to a wider customer base and supports consistent demand across items.
