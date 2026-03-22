@@ -129,7 +129,8 @@
 * Investigate the poor performance of Chicken Tacos and Potstickers, potentially improving their recipes, adjusting pricing, or promoting them through special offers.
 * Consider removing or redesigning consistently underperforming items if they continue to show low demand and low revenue
 ## Insight 5 :  Price vs Demand Relationship
-### Do higher-priced items sell less frequently?
+### Business Question
+#### Do higher-priced items sell less frequently?
 #### The data does not show a clear pattern that higher-priced items consistently sell less frequently. While the most expensive item ($20) has relatively low demand, other high-priced items such as the $18 item still experience strong sales. This suggests that customer demand is influenced not only by price but also by factors such as item popularity and perceived value.
 ## Recommendation
 ### 1 Focus on Value,Not Just Price
@@ -146,5 +147,6 @@
 * Repriced or bundled
 * Better marketed
 ## Insight 6 : Revenue Concentration Risk
-### What percentage of total revenue comes from the top 5 items?
+### Business Question
+#### What percentage of total revenue comes from the top 5 items?
 #### The top 5 menu items generate 27.21% of the restaurant’s total revenue, which shows that sales are spread across many items on the menu rather than being driven by just a few popular ones. This means the business is not heavily dependent on a small number of products,reducing the risk of revenue loss if one item’s sales decline
