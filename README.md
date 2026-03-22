@@ -118,9 +118,33 @@
 * Preparing ingredients and inventory ahead of this window may help reduce service delays.
 * Additionally, the restaurant could explore targeted promotions during slower morning or evening hours to help balance demand throughout the day.
 ## Insight 4 : Most and Least Valuable items
-### What item generates the most revenue and order ?
+### Business Question
+#### What item generates the most revenue and order ?
 #### Hamburger, edamame, and Korean beef bowl recorded the highest number of orders, with 622, 620, and 588 respectively. In contrast, cheese lasagna, potstickers, and chicken tacos had the lowest order volumes, with 207, 205, and 123 orders.
 
 #### In terms of revenue, the Korean beef bowl generated the highest income at $10,584, followed by spaghetti and meatballs with $8,460 and cheeseburger with $8,162. On the other hand, chicken tacos produced the lowest revenue at $1,476, closely followed by potstickers at $1,845 and chips at $2,133.
-
-
+## Recoomendation
+#### From a strategic perspective, the restaurant could:
+* Promote high-performing items such as Hamburger, Edamame, and Korean Beef Bowl, as they already show strong demand.
+* Investigate the poor performance of Chicken Tacos and Potstickers, potentially improving their recipes, adjusting pricing, or promoting them through special offers.
+* Consider removing or redesigning consistently underperforming items if they continue to show low demand and low revenue
+## Insight 5 :  Price vs Demand Relationship
+### Do higher-priced items sell less frequently?
+#### The data does not show a clear pattern that higher-priced items consistently sell less frequently. While the most expensive item ($20) has relatively low demand, other high-priced items such as the $18 item still experience strong sales. This suggests that customer demand is influenced not only by price but also by factors such as item popularity and perceived value.
+## Recommendation
+### 1 Focus on Value,Not Just Price
+*The restaurant should prioritize enhancing perceived value (e.g., portion size, presentation, quality, or uniqueness) rather than simply lowering prices.
+### 2 Identify and Promote High-Performing Premium Items
+* High-priced items that already perform well (e.g., the $18 item) should be highlighted and promoted, as they demonstrate that customers are willing to pay more for the right offering.
+### 3 Optimize Mid-Range Pricing Strategy
+#### Since demand is strongest in the mid-price range, the restaurant can:
+* Introduce more items within this range
+* Position them as “best value” options
+### 4️ Improve or Reposition Low-Performing High-Price Items
+#### High-priced items with low demand (e.g., the $20 item) should be:
+* Reviewed for quality or appeal
+* Repriced or bundled
+* Better marketed
+## Insight 6 : Revenue Concentration Risk
+### What percentage of total revenue comes from the top 5 items?
+#### The top 5 menu items generate 27.21% of the restaurant’s total revenue, which shows that sales are spread across many items on the menu rather than being driven by just a few popular ones. This means the business is not heavily dependent on a small number of products,reducing the risk of revenue loss if one item’s sales decline
