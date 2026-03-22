@@ -99,6 +99,8 @@
 *  Asian cuisine demonstrates strong demand, suggesting an opportunity to increase revenue by slightly adjusting pricing,
  introducing premium variations, or promoting higher-value Asian dishes.
 ## Insight 2 : Order volume by day
+### Business QUestion
+#### Which days have the highest number of orders?
 #### Monday had the highest number of transaction 885, closely followed by Sunday, Friday and Tuesday with 796, 787 and 766 respectively, however thursday, saturday and wednesday had the lowest count of orders with 743 ,711 and 682 respectively .
 ## Recommendation
 ### Business Recommendation
@@ -107,10 +109,17 @@
 * Preparing additional inventory ahead of these peak days to prevent stock shortages.
 * Exploring promotional campaigns on slower days such as wednesday, saturday and Thursday to help balance demand across the week.
 ## Insight 3 : Peak Ordering Time 
+### Business QUestion
+#### What time of day experiences peak ordering activity?
 #### An analysis of order activity by time of day shows that demand is relatively drops low after first 3 hours of the early morning hours. Ordering activity begins to increase later in the mid day and reaches its peak between 12:00 PM and 1:00 PM, indicating that the restaurant experiences its highest order volume during the lunchtime period.
 #### After this period, order activity gradually declines throughout the afternoon and drops further during the evening hours, suggesting that customer demand is significantly lower outside the lunch window.
 ## Recommendation 
 * From an operational perspective, the restaurant should ensure that sufficient staff and kitchen capacity are available between 12 PM and 1 PM, as this period represents the highest operational pressure.
 * Preparing ingredients and inventory ahead of this window may help reduce service delays.
 * Additionally, the restaurant could explore targeted promotions during slower morning or evening hours to help balance demand throughout the day.
+## Insight 4 : Most and Least Valuable items
+### What item generates the most revenue and order ?
+#### Hamburger, edamame, and Korean beef bowl recorded the highest number of orders, with 622, 620, and 588 respectively. In contrast, cheese lasagna, potstickers, and chicken tacos had the lowest order volumes, with 207, 205, and 123 orders.
+
+#### In terms of revenue, the Korean beef bowl generated the highest income at 10,584, followed by spaghetti and meatballs with 8,460 and cheeseburger with 8,162. On the other hand, chicken tacos produced the lowest revenue at 1,476, closely followed by potstickers at 1,845 and chips at 2,133.
 
