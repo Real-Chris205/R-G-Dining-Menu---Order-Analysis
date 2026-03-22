@@ -168,3 +168,9 @@
 
 ### 5️ Leverage Menu Diversity for Marketing
 #### The restaurant can promote itself as offering variety and choice, which appeals to a wider customer base and supports consistent demand across items.
+## Conclusion
+#### This analysis of R/G Dining provides a comprehensive view of the restaurant’s performance across revenue generation, customer demand, operational patterns, and product effectiveness .
+#### The findings reveal that the business operates with a balanced and diversified revenue structure, where no single product or category overwhelmingly dominates performance. While Italian cuisine stands out as the primary revenue driver, benefiting from higher average spending per order, Asian cuisine demonstrates the strongest customer demand, indicating high transaction volume and customer preference.
+#### Operationally, the restaurant experiences peak demand during lunch hours (12 PM – 1 PM) and on specific high-traffic days, highlighting clear opportunities for staff optimization and inventory planning. At the product level, a mix of high-performing and underperforming items was identified, providing actionable insights for menu optimization and performance improvement.
+#### Additionally, the analysis shows that price alone does not determine demand, as customer purchasing behavior is influenced by perceived value and item appeal. Combined with the finding that only 27.21% of revenue comes from the top 5 items, it is evident that the restaurant benefits from low revenue concentration risk and a well-distributed sales structure.
+#### Overall, the business is positioned with stable demand, diversified revenue streams, and clear growth opportunities. By focusing on high-value categories, optimizing underperforming items, and aligning operations with peak demand periods, R/G Dining can enhance both profitability and operational efficiency moving forward.
