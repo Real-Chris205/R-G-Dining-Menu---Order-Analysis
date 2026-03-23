@@ -178,3 +178,7 @@
 ## Key SQL Queries
 - <a href="https://github.com/Real-Chris205/R-G-Dining-Menu---Order-Analysis/blob/main/revenue%20concentration%20risk.sql">Revenue_concentration_risk.sql</a>
 - <a href="https://github.com/Real-Chris205/R-G-Dining-Menu---Order-Analysis/blob/main/sql/total_revenue.sql">Total_Revenue.sql</a>
+
+## Dashboard Preview
+<img width="1319" height="737" alt="original restaurant db" src="https://github.com/user-attachments/assets/19423325-1879-42c6-a3a3-292186fc277d" />
+
