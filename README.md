@@ -177,3 +177,4 @@
 
 ## Key SQL Queries
 - <a href="https://github.com/Real-Chris205/R-G-Dining-Menu---Order-Analysis/blob/main/revenue%20concentration%20risk.sql">Revenue_concentration_risk.sql</a>
+- <a href="https://github.com/Real-Chris205/R-G-Dining-Menu---Order-Analysis/blob/main/sql/total_revenue.sql">Total_Revenue.sql</a>
