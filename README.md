@@ -182,3 +182,4 @@
 ## Dashboard Preview
 <img width="1319" height="737" alt="original restaurant db" src="https://github.com/user-attachments/assets/19423325-1879-42c6-a3a3-292186fc277d" />
 
+## Dashboard Interaction
